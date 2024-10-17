@@ -3,8 +3,8 @@
 ###
 
 <p align="left">Welcome to the Anis Fitness website! This is the front-end of our fitness platform, designed to provide an intuitive and engaging user experience for our members. The site showcases our gym's offerings, schedules, and allows users to sign up for memberships, book classes, and explore the facilities.</p>
-visit: <a href="https://yourgymwebsite.com" target="_blank">Anis Fitness</a>.
-###
+visit demo version: <a href="https://yourgymwebsite.com" target="_blank"> Anis Fitness</a>
+
 
 <h2 align="left">Features</h2>
 
