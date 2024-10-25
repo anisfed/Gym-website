@@ -42,9 +42,9 @@ visit demo version: <a href="https://anisfed.github.io/Gym-website/" target="_bl
 
 ###
  
-![2](https://github.com/user-attachments/assets/1089b253-5c8d-4e37-bfe5-b468c9d4e7f7)
-![1](https://github.com/user-attachments/assets/dc90b75a-e0c2-4105-b46d-30ba835c89dc)
-![5](https://github.com/user-attachments/assets/55a2fa8e-5750-4742-9815-f41e7ca82872)
-![3](https://github.com/user-attachments/assets/13502df6-77c2-44b2-a309-3a314f4ae2ee)
-![4](https://github.com/user-attachments/assets/1bd5f22a-9c8f-4b03-8101-749759cdc326)
+![1](https://github.com/user-attachments/assets/3125b5b2-c276-40de-82e5-943e5a16fe35)
+![2](https://github.com/user-attachments/assets/06071199-538f-4024-8501-bf5a74598862)
+![3](https://github.com/user-attachments/assets/3852d4d3-6232-4578-991f-a5aab2b57ced)
+![4](https://github.com/user-attachments/assets/92a8cc86-7a0a-465b-a9fa-d6c32db1a814)
+![5](https://github.com/user-attachments/assets/49c58dd9-fccb-4f8f-b1bb-714e0c81e5cf)
 
